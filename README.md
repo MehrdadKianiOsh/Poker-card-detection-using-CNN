@@ -11,8 +11,9 @@ v. brightness between [0.4,1.5].
 
 The dataset is 40 x 28 pixels and the total number is 8851 images.
 
-DOI: 10.34740/kaggle/dsv/3739262
+The dataset is available on kaggle: https://doi.org/10.34740/KAGGLE/DSV/3739262
 
+DOI: 10.34740/kaggle/dsv/3739262
 
 @misc{mehrdad kiani oshtorjani_2022, title={Poker cards - suits and numbers}, 
 url={https://www.kaggle.com/dsv/3739262}, DOI={10.34740/KAGGLE/DSV/3739262}, 
